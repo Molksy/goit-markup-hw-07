@@ -644,7 +644,6 @@ font-size: 36px;
     flex-direction: column;
     padding: 0px;
     margin-left: 70px;
-    margin-right: 93px;
 }
 
 .footer-icons-header{
@@ -725,7 +724,7 @@ font-size: 36px;
     display: flex;
     flex-direction: column;
     margin-left: auto;
-    width: 100%;
+
  }
 
 .form-sign{
@@ -735,9 +734,10 @@ font-size: 36px;
 
  .form-sign-input{
     height: 50px;
-       width: 100%;
-       font-weight: 400px;
+    width: 358px;
 
+
+       padding: 15px 16px;
        border-radius: 4px;
        border: 1px solid rgba(255, 255, 255, 0.3);;
        font-size: 16px;
