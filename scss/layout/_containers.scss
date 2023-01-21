@@ -72,3 +72,21 @@
     padding: 0px;
     margin-left: 70px;
 }
+
+.buttons__container{
+    display: flex;
+    gap: 8px;
+    justify-content: center;
+    padding-top: 94px;
+    padding-bottom: 34px;
+}
+
+.examples__container{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-basis: calc((100% - 60px) / 3);
+    padding-top: 0;
+    padding-bottom: 94px;
+}
